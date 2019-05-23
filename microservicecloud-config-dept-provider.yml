@@ -3,7 +3,7 @@
 
 spring:
    application:
-     name: microservicecloud-config-dept-client
+     name: emp-provider
    datasource:
        driver-class-name: com.mysql.jdbc.Driver
        url: jdbc:mysql://localhost:3306/springcloud
